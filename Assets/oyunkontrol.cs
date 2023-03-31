@@ -16,7 +16,7 @@ public class oyunkontrol : MonoBehaviour
         print("Benimle oyun oynamak ister misin?(E/H)");
     }
 
-    // Update is called once per frame
+    // Update is called once per framee
     void Update()
     {
         if (!oyunBasladi) {
